@@ -1,0 +1,3 @@
+0 Ini adalah Solid
+1 Ini adalah Liquid
+2 Ini adalah Gas
